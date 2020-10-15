@@ -1,5 +1,4 @@
 # GuoYaWei<br>
-===
 #程序描述<br>
 1.CPU要求getSpeed()返回Speed的值，要求setSpeed(int m)方法将参数m的值赋值给Speed;<br>
 2.HardDisk类要求getAmount()返回amount的值，要求setAmount(int m)方法将参数m的值赋值给amount;<br>
